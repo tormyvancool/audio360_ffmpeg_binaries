@@ -19,7 +19,7 @@ Run FB360. Enjoy
 # NOTE:
 
 This is the compiled version rpopsoed here:
-https://facebookincubator.github.io/facebook-360-spatial-workstation/KB/ManualFFmpegInstallation.html?fbclid=IwAR3ttcrk86s6su8pvFf0170M_h1CUkM01b2lJVVNIF50cXC2gnEX3brLVkk
+https://facebookincubator.github.io/facebook-360-spatial-workstation/KB/ManualFFmpegInstallation.html
 
 Which is the verison **3.2 MANDATORY for FB360 Encoder.exe**. Inded thepath above carries out the path version.
 So: jsut to isntall the more recente **ffmpeg**, and enabling them inhto the PATH of Windows: doesn't work at all!
