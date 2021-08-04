@@ -19,6 +19,7 @@ Run FB360. Enjoy
 # NOTE:
 
 This is the compiled version rpopsoed here:
+
 https://facebookincubator.github.io/facebook-360-spatial-workstation/KB/ManualFFmpegInstallation.html
 
 Which is the verison **3.2 MANDATORY for FB360 Encoder.exe**. Inded thepath above carries out the path version.
