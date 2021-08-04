@@ -1,4 +1,4 @@
-# audio360 ffmpeg binaries for WINDOWS
+# Audio360: FB30 Spatial Workstation ffmpeg Binaries for WINDOWS
 Installing audio360, ffmpeg is missing. you had to do cumbersome operations to get it in. Now just "copy  and paste" the code I posted here.is valid for Windows
 
 download the entire dir
