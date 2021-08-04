@@ -26,7 +26,7 @@ So: jsut to isntall the more recente **ffmpeg**, and enabling them inhto the PAT
 
 To propose to people, normally Audio Engineers, to become IT Specialsits for 1 day, to compile the code, in order to be able to us e it: is not only crazy but also out of any mind and totally unacceptable!
 
-"facebookincubator" could compile the binaries and give them to people isntead to waste time on turn people into "system engineers for one day".
+"*facebookincubator*" could compile the binaries and give them to people instead to waste time turn people into "system engineers for one day".
 
 Hence, I decided to failitate the life of everybody,providing the fiished code.
 All what you have to do it: download it and install it as I said above.
