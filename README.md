@@ -1,4 +1,4 @@
-# Audio360: "Facebook360 Spatial Workstation" ffmpeg Binaries for WINDOWS
+# Audio360: "Facebook360 Spatial Workstation" ffmpeg Binaries for WINDOWS 10
 Installing audio360, ffmpeg is missing. You had to do cumbersome operations to get it in. Now just "copy  and paste" the code I posted here. As said: it is valid for Windows
 
 download the entire dir
