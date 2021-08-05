@@ -1,3 +1,7 @@
+If this project was useful to you for your porjects and saved you time, please pay me a drink
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=LZ6LLD2B7PGG2)
+
+
 # Audio360: "Facebook360 Spatial Workstation" ffmpeg Binaries for WINDOWS 10
 Installing audio360, ffmpeg is missing. You had to do cumbersome operations to get it in. Now just "copy  and paste" the code I posted here. As said: it is valid for Windows
 
