@@ -23,7 +23,7 @@ This is the compiled version rpopsoed here:
 https://facebookincubator.github.io/facebook-360-spatial-workstation/KB/ManualFFmpegInstallation.html
 
 Which is the verison **3.2 MANDATORY for FB360 Encoder.exe**. Inded thepath above carries out the path version.
-So: jsut to isntall the more recente **ffmpeg**, and enabling them inhto the PATH of Windows: doesn't work at all!
+So: just to install the more recente **ffmpeg**, and enabling them inhto the PATH of Windows: doesn't work at all!
 
 To propose to people, normally Audio Engineers, to become IT Specialsits for 1 day, to compile the code, in order to be able to us e it: is not only crazy but also out of any mind and totally unacceptable!
 
