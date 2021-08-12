@@ -1,0 +1,14 @@
+prefix=/usr/local/Cellar/ffmpeg@3.4/3.4.2
+exec_prefix=${prefix}
+libdir=/usr/local/Cellar/ffmpeg@3.4/3.4.2/lib
+includedir=/usr/local/Cellar/ffmpeg@3.4/3.4.2/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 55.78.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -lm
+Cflags: -I${includedir}

@@ -1,0 +1,14 @@
+prefix=/usr/local/Cellar/ffmpeg@3.4/3.4.2
+exec_prefix=${prefix}
+libdir=/usr/local/Cellar/ffmpeg@3.4/3.4.2/lib
+includedir=/usr/local/Cellar/ffmpeg@3.4/3.4.2/include
+
+Name: libavdevice
+Description: FFmpeg device handling library
+Version: 57.10.100
+Requires: 
+Requires.private: libavfilter >= 6.107.100, libavresample >= 3.7.0, libswscale >= 4.8.100, libpostproc >= 54.7.100, libavformat >= 57.83.100, libavcodec >= 57.107.100, libswresample >= 2.9.100, libavutil >= 55.78.100
+Conflicts:
+Libs: -L${libdir}  -lavdevice 
+Libs.private: -framework OpenGL -framework OpenGL -framework Foundation -framework CoreVideo -framework CoreMedia -framework CoreFoundation -framework VideoToolbox -framework CoreMedia -framework CoreVideo -framework VideoDecodeAcceleration -liconv -Wl,-framework,CoreFoundation -Wl,-framework,Security -Wl,-framework,OpenCL -lxvidcore -L/usr/local/Cellar/x264/r3060/lib -lx264 -lmp3lame -lm -lbz2 -lz -pthread -pthread -framework CoreServices -framework CoreGraphics -framework VideoToolbox -framework CoreImage -framework AVFoundation -framework AudioToolbox -framework AppKit
+Cflags: -I${includedir}
