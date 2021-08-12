@@ -3,7 +3,7 @@ If this project was useful to you for your porjects and saved you time, please p
 
 
 # BOTH VERSIONS AVAILAVBLE/ WINDOWS and MAC-OS
-Thanks to Daniele Pistocchi, who colalborated with me for this project, you have the MAC OS version as well.
+Thanks to **Daniele Pistocchi**, whose colalborated with me for this project, you have the MAC OS version as well.
 
 
 # Audio360: "Facebook360 Spatial Workstation" ffmpeg Binaries for MAC-OS
